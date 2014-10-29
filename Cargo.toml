@@ -1,0 +1,5 @@
+[package]
+
+name = "parser-comb"
+version = "0.0.1"
+authors = ["Michael Layzell <michael@thelayzells.com>"]
